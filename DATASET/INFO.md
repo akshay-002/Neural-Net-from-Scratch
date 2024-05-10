@@ -1,4 +1,4 @@
-# Digit Recognizer Dataset Description
+## Digit Recognizer Dataset Description
 
 The digit recognizer dataset contains gray-scale images of hand-drawn digits, ranging from zero through nine. Each image is 28 pixels in height and 28 pixels in width, resulting in a total of 784 pixels. Each pixel has a single pixel-value associated with it, representing the lightness or darkness of that pixel, with higher numbers indicating darker shades. The pixel-values are integers ranging from 0 to 255, inclusive.
 
@@ -8,9 +8,9 @@ Each pixel column in the dataset is named as "pixelx", where x is an integer bet
 
 For example, "pixel31" indicates the pixel located in the fourth column from the left and the second row from the top of the image.
 
-Access the dataset here : 
+## Access the dataset here : 
 
-https://www.kaggle.com/competitions/digit-recognizer/data
+## https://www.kaggle.com/competitions/digit-recognizer/data
 
 
 
