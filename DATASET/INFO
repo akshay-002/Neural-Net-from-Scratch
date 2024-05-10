@@ -8,5 +8,9 @@ Each pixel column in the dataset is named as "pixelx", where x is an integer bet
 
 For example, "pixel31" indicates the pixel located in the fourth column from the left and the second row from the top of the image.
 
-[Access the dataset here](https://www.kaggle.com/competitions/digit-recognizer/data){:target="_blank"}
+Access the dataset here : 
+
+https://www.kaggle.com/competitions/digit-recognizer/data
+
+
 
